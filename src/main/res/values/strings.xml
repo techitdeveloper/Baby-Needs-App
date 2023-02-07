@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BabyNeedsApp</string>
+    <string name="add_item">Add Baby Item</string>
+    <string name="item_name">Item</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="quatity">Quantity</string>
+    <string name="colour">Colour</string>
+    <string name="size">Size (Months)</string>
+    <string name="save">Save</string>
+    <string name="edit_button">EditButton</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="confirm_delete">Are you sure you want to delete selected item?</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="update_btn">Update</string>
+</resources>
